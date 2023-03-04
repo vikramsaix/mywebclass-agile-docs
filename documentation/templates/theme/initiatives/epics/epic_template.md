@@ -7,9 +7,9 @@ Goals: [Define the requirements for the DevOps process.
  Select appropriate tools and technologies required for implementing the DevOps process.
  Define the workflow for integrating code changes into the DevOps process]
 
-User Stories: [1. As a web developer, I want a clear and comprehensive documentation of the DevOps process, so that I can simply refer to it and follow the procedures to integrate my code modifications.
-2.As a project manager, I want to specify the specifications for the DevOps process, so that the development team may adopt a process that satisfies the project's demands.
-3.As the owner of a website, I want to guarantee that the DevOps process adheres to applicable legal standards, such as GDPR and data protection legislation.]
+User Stories: [1. As a web developer, one of my primary goals is to have a documentation of the DevOps process that is both detailed and easy to understand. This will allow me to easily make adjustments to my code by referring to the documentation and following the outlined steps.
+2.As the project manager, one of my goals is to lay out the requirements for the DevOps process so that the development team may choose one of the available options that will allow them to meet the needs of the project.
+3.As the owner of a website, it is important to me that the DevOps process is compliant with all relevant legal requirements, such as the General Data Protection Regulation (GDPR) and data protection regulations.]
 
 Dependencies: [1. Resources should be readily available. The team members in charge of developing the strategy should have enough time, money, and access to the tools and technology needed to establish the DevOps process.
 2.Clarity on the present system: Before to developing a DevOps process, it is crucial to have a thorough grasp of the infrastructure and design of the current system. This can include thoroughly examining the current system to find areas that need improvement.
