@@ -1,7 +1,7 @@
 "Process for developing and deploying software (DevOps) with clear instructions"
 
-Description: [1. The creation of a thorough strategy defining the steps necessary to establish the DevOps process for the continuing development of a website is the main objective of this epic.
-2.This epic is a crucial first step in creating a successful DevOps process that will enable continuous integration and deployment of code changes, speeding up the release of new features and improving website performance.]
+Description: [1. The primary purpose of this epic is to create a detailed plan that will define the steps that are required to set up the DevOps process for the ongoing development of a website. This will be the major aim of this epic.
+2.This epic is an essential first step in establishing a successful DevOps process, which will allow continuous integration and deployment of code changes, hence accelerating the delivery of new features and enhancing the performance of the website.]
 
 Goals: [Define the requirements for the DevOps process.
  Select appropriate tools and technologies required for implementing the DevOps process.
